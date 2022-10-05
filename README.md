@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I am a computer science student.
+#### I study computer science.
 
-- 🔭 I’m currently working on getting a part time software engineer intership.
 - 🌱 I’m currently learning ReactJs and Typescript.
 - ⚡ Fun fact: I love to cook Ding Tai Fung style fried rice.
