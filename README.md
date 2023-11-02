@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 #### I study computer science.
 
-- 🌱 I’m currently learning ReactJs and Typescript.
+- 🌱 I’m currently learning Springboot.
 - ⚡ Fun fact: I love to cook Ding Tai Fung style fried rice.
